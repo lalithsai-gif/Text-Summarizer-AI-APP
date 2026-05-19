@@ -216,6 +216,16 @@ AI is transforming industries through automation and improved decision-making.
 
 ---
 
+# 📸 Application Preview
+
+## Home Page
+
+- Enter text content
+- Click summarize
+- View generated summary instantly
+
+---
+
 ## 🏠 Home Page
 
 ![Home Page](screenshots/home.png)
@@ -269,16 +279,6 @@ This keeps the repository lightweight and production-ready.
 - 🔐 User Authentication
 - 📱 Mobile Responsive UI
 - 🧾 Export Summary as PDF
-
----
-
-# 📸 Application Preview
-
-## Home Page
-
-- Enter text content
-- Click summarize
-- View generated summary instantly
 
 ---
 
